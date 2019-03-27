@@ -1,5 +1,4 @@
-
-# LatinR 2018
+# LatinR 2018 <img src="img/latinr_icon_200.png" align="right" />
 
 LatinR 2018 fue el 4 y 5 de septiembre de 2018
 
