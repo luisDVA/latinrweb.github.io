@@ -122,3 +122,10 @@ LatinR 2018 fue el 4 y 5 de septiembre de 2018
       - Organizadora de R-Ladies Santa Fe
   - Andrea María Lagomarsino
       - INTA
+
+
+## Con apoyo de 
+
+### Sponsors
+
+[!()[http://latin-r.com/img/partners/RStudio.png]](https://www.rstudio.com/)
