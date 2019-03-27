@@ -135,3 +135,7 @@ LatinR 2018 fue el 4 y 5 de septiembre de 2018
 [![RConsortium](img/partners/RConsortium_Icon-200.png)](https://www.r-consortium.org/)
 
 
+### Auspicios
+
+[![R-Foundation](img/partners/R_logo-200.png)](https://www.r-project.org/foundation/)
+[![R-Ladies](img/partners/r-ladies-200.png)](https://rladies.org)
