@@ -1,0 +1,49 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# LatinR 2018
+
+LatinR 2018 fue el 4 y 5 de septiembre de 2018
+
+
+```{r, echo = FALSE, results='asis'}
+library(yaml)
+library(purrr)
+
+team <- read_yaml("_data/team.yml") 
+
+names(team) <- map_chr(team, 1)
+
+# Hace las chairs
+
+.x <- team[[3]]
+
+list_people <- function(.x) {
+  title <- .x$name$es
+  
+  make_person <- function(person) {
+    if (person$level == "cientifico") {
+      paste0("* ", person$name, " ", person$surname, " (", 
+             person$titles, ")")
+      
+    } else {
+      paste0("*  ", person$name, " ", person$surname, "\n     *  ", 
+             paste0(person$titles, collapse = "\n     *  "))
+    }
+  }
+  
+  
+  people <- map_chr(.x$people, make_person) %>%
+    paste0(collapse = "\n ")
+  
+  cat(paste0("## ", title, "\n\n", people, "\n\n"))
+}
+
+walk(team, list_people)
+```
+
