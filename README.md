@@ -129,3 +129,9 @@ LatinR 2018 fue el 4 y 5 de septiembre de 2018
 ### Sponsors
 
 [![Rstudio](img/partners/RStudio-200.png)](https://www.rstudio.com/)
+[![DataCamp](img/partners/DataCamp-200.png)](https://www.datacamp.com/)
+[![Fundación Sadosky](img/partners/sadosky-200.png)](http://www.fundacionsadosky.org.ar/)
+[![EANT](img/partners/eant-200.png)](https://eant.tech)
+[![RConsortium](img/partners/RConsortium_Icon-200.png)](https://www.r-consortium.org/)
+
+
