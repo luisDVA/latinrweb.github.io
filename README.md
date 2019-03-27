@@ -2,6 +2,10 @@
 
 LatinR 2018 fue el 4 y 5 de septiembre de 2018
 
+* [Presentaciones y pósters](https://github.com/LatinR/presentaciones-LatinR2018)
+
+* [Fotos](img/gallery2018)
+
 ## Coordinación General y Ejecutiva de las 47 JAIIO
 
   - Alejandra Garrido
