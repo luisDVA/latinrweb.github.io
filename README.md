@@ -128,4 +128,4 @@ LatinR 2018 fue el 4 y 5 de septiembre de 2018
 
 ### Sponsors
 
-[!()[http://latin-r.com/img/partners/RStudio.png]](https://www.rstudio.com/)
+[![Rstudio](http://latin-r.com/img/partners/RStudio.png)](https://www.rstudio.com/)
