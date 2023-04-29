@@ -11,7 +11,7 @@ editor_options:
 
 #### LatinR2023 \<- "Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo"
 
-<br> <br> La sexta versión de la conferencia se llevará a cabo em Montevideo, Uruguay, entre los días 18 y 20 de octubre. En esta edición se podrá participar con presentaciones orales, charlas relámpagos y pósters.
+<br> <br> La sexta versión de la conferencia se llevará a cabo en Montevideo, Uruguay, entre los días 18 y 20 de octubre. En esta edición se podrá participar con presentaciones orales, charlas relámpagos y pósters.
 
 <br>
 ##### Tópicos de interés
